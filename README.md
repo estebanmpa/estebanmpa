@@ -23,6 +23,8 @@ I've recently certified AWS Certified Cloud Practitioner and my goal is to conti
 
 **Version Control:** `Git` `GitLab`
 
+**CI/CD:** `Jenkins` `GitHub Actions`
+
 **Others:** `Docker` `Kafka` `AWS` `GCP` `Postgresql` `Mongodb` `Firebase`
 
 ## 📫 Reach out to me on
